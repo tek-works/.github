@@ -1,6 +1,8 @@
 <div align="center">
 
-![Banner](./images/banner.png)
+<a href="https://tekworks.net" target="_blank">
+  <img src="https://raw.githubusercontent.com/tek-works/.github/main/images/banner.png" width="500" height="147px" />
+</a>
 
 </div>
 
